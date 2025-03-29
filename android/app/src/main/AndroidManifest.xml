@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="fluttter_fourthousand_weeks"
+        android:label="4000 weeks"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
